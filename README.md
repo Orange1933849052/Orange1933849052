@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Orange1933849052
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Javascript Uniapp Vue react such thins
+- 🌱 I’m currently learning Echarts
+- 💞️ I’m looking to collaborate on all different people
 - 📫 How to reach me wechat:Coder8081
 
 <!---
